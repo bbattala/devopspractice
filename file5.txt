@@ -1,3 +1,7 @@
 this is the first line added by suresh
+<<<<<<< HEAD
 this is second line added by sainath
+=======
+edited in file5.txt.
+>>>>>>> 10a30b168e9707d30d30d2828e73072242d74805
 

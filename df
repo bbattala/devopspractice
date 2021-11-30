@@ -1,0 +1,103 @@
+[33mcommit feba1fd9784f4143d401fbc949e6828b7627a10f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sureshsiri <sureshsiripuram1996@gmail.com>
+Date:   Fri Nov 26 17:21:07 2021 +0530
+
+    file6 is updated
+
+[33mcommit ca84be7a684c06728c5156c39789465270d190da[m
+Merge: 436dea2 ab0626f
+Author: sureshsiri <sureshsiripuram1996@gmail.com>
+Date:   Fri Nov 26 17:13:50 2021 +0530
+
+    file1-file5 is added"
+
+[33mcommit 436dea2044ab09c0e07d8ddb0b5d03f620dda44c[m
+Author: sureshsiri <sureshsiripuram1996@gmail.com>
+Date:   Fri Nov 26 17:12:12 2021 +0530
+
+    all files were commiited
+
+[33mcommit ab0626f1dc9bf4b0170810838bf03083038ed25e[m
+Merge: cec17f6 041b290
+Author: AkhileshThummanapelli <akhilesh.thummanapelli@gmail.com>
+Date:   Fri Nov 26 12:42:40 2021 +0530
+
+    line3 changed by akhilesh
+
+[33mcommit cec17f665c80cda0b8b69f037015058be16f4038[m
+Author: AkhileshThummanapelli <akhilesh.thummanapelli@gmail.com>
+Date:   Fri Nov 26 12:40:08 2021 +0530
+
+    line 3 changed
+
+[33mcommit 041b290fe704a7778e5984ea9af016362e3901f7[m
+Merge: d7fcf69 073eec7
+Author: sureshsiri <sureshsiripuram1996@gmail.com>
+Date:   Fri Nov 26 12:21:49 2021 +0530
+
+    file1.txt is changed
+
+[33mcommit 073eec7ddb4cb92f2a43ee7b8fe7f5ceb47fff38[m
+Author: sureshsiri <sureshsiripuram1996@gmail.com>
+Date:   Fri Nov 26 12:01:04 2021 +0530
+
+    file1.txt modified by suresh
+
+[33mcommit d7fcf690a626dce53f9930b6c739b12ca4140359[m
+Author: sureshsiri <sureshsiripuram1996@gmail.com>
+Date:   Fri Nov 26 11:58:43 2021 +0530
+
+    documents fil1.txt is modified by sainath
+
+[33mcommit e2a35cec46332d1f86cd08452d893d12ac30275e[m
+Merge: b2930f1 72d1433
+Author: Sainath Mitalakar <94965381+seenu8855@users.noreply.github.com>
+Date:   Fri Nov 26 11:40:10 2021 +0530
+
+    Merge pull request #1 from bbattala/seenu
+    
+    seenu
+
+[33mcommit 72d1433bc90dedac79fb412b5559cea5d263ec2f[m
+Author: Sainath Mitalakar <94965381+seenu8855@users.noreply.github.com>
+Date:   Fri Nov 26 11:38:37 2021 +0530
+
+    seenu
+    
+    i just change
+
+[33mcommit b2930f1eebe4d68f793229bd70ed772c06c29be1[m
+Author: Sainath Mitalakar <94965381+seenu8855@users.noreply.github.com>
+Date:   Fri Nov 26 10:45:28 2021 +0530
+
+    Update file1.txt
+
+[33mcommit 85f1a0b866d5356e7d68f0ba37a6be4309189d9c[m
+Author: Sainath Mitalakar <94965381+seenu8855@users.noreply.github.com>
+Date:   Fri Nov 26 10:44:39 2021 +0530
+
+    updated file 2
+
+[33mcommit 5d81f024a62e136d36b9d7a6f17eccc0e9b2db9f[m
+Author: AkhileshThummanapelli <akhilesh.thummanapelli@gmail.com>
+Date:   Thu Nov 25 18:22:40 2021 +0530
+
+    file4 added by akhilesh
+
+[33mcommit 8f658aea716fe8c40c6292ec8d670336041e6586[m
+Author: AkhileshThummanapelli <akhilesh.thummanapelli@gmail.com>
+Date:   Thu Nov 25 18:16:51 2021 +0530
+
+    akhilesh added line 3 in file1.txt
+
+[33mcommit 601b373093adfaa708085fff6151af400b5cb5ae[m
+Author: Shubham Vashist <shubhamvashist07@gmail.com>
+Date:   Thu Nov 25 16:06:50 2021 +0530
+
+    added file3.txt
+
+[33mcommit dafcd03338cc781a07a5e8219f37185d4bbfa362[m
+Author: Shubham Vashist <shubhamvashist07@gmail.com>
+Date:   Thu Nov 25 16:02:26 2021 +0530
+
+    addded line in file1.txt
