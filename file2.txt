@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 this is file2 first line
 this file 2 second line
 ........
+=======
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+AEIOU
+12345678919
+9356307015
+9960515873
+>>>>>>> main
