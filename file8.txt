@@ -1,3 +1,2 @@
 this is file 8
-this second line
-this is 3rd line 
+this second line 
