@@ -1,1 +1,6 @@
  this is file6.txt
+<<<<<<< HEAD
+ this line is added by sainath.
+=======
+ this line added by sainath.......
+>>>>>>> main
